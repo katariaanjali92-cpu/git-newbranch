@@ -1,1 +1,3 @@
 forth file added and some msgs also added 
+adding a few more terms 
+
